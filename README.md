@@ -8,6 +8,7 @@
 
 ![macOS 15+](https://img.shields.io/badge/macOS-15%2B-1d1d1f?logo=apple&logoColor=white)
 ![Universel](https://img.shields.io/badge/Universel-Intel%20%26%20Apple%20Silicon-555)
+![Langues](https://img.shields.io/badge/Interface-FR%20%7C%20EN%20%7C%20ES-6D4AFF)
 ![100% local](https://img.shields.io/badge/100%25-local%20%26%20priv%C3%A9-6D4AFF)
 ![Gratuit](https://img.shields.io/badge/Gratuit-%E2%9C%93-2ea44f)
 
@@ -27,6 +28,7 @@ Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la tr
 |---|---|
 | ⌨️ **Raccourci global** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
 | 🌍 **Partout** | Navigateur, Mail, PDF, Slack, Notes… |
+| 🗣️ **Interface multilingue** | Français, anglais et espagnol — automatiquement selon la langue de votre Mac |
 | 🔒 **Privé & hors-ligne** | Via `Translation.framework` d'Apple |
 | 💬 **Bulle élégante** | Le résultat s'affiche près du curseur |
 | 🪶 **Discret** | Vit dans la barre de menus, sans icône Dock |
@@ -46,7 +48,7 @@ Un assistant vous guide :
 
 1. **Accessibilité** — cliquez sur *Ouvrir Réglages*, puis activez **Lexo** dans
    *Réglages Système → Confidentialité et sécurité → Accessibilité*. Indispensable pour lire votre sélection.
-2. **Langue cible** — français par défaut, modifiable à tout moment.
+2. **Langue cible** — la langue **vers laquelle** traduire (français par défaut), modifiable à tout moment.
 
 ## ⚙️ Configuration requise
 
@@ -60,6 +62,10 @@ Un assistant vous guide :
 3. La bulle affiche la traduction — `Échap` la ferme, **Copier** la met dans le presse-papiers.
 
 > Première traduction d'une nouvelle paire de langues : macOS télécharge le modèle (~30 Mo), une seule fois. Ensuite, tout est instantané et hors-ligne.
+
+## 🌐 Langues de l'interface
+
+L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatiquement** en **français, anglais ou espagnol** selon la langue de votre Mac — aucun réglage nécessaire. *(À ne pas confondre avec les langues **traduites**, qui couvrent des dizaines de langues via Apple Translation.)*
 
 ## 🛟 Dépannage
 
