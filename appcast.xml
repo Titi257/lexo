@@ -8,8 +8,16 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Titi257/lexo/main/Lexo.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3899263" type="application/octet-stream" sparkle:edSignature="f/ecWdosDjkpdZPr1g2XnxpQaQaiNri1CVv9sP1kqt99aGkvrzYUzLhbnGypaOcnYmZKw9fXkzt4ErkmbrlJBQ=="/>
+            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.0</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🌍 <b>Interface en 40 langues</b> — suit automatiquement la langue de votre Mac.</li>
+  <li>🔤 <b>Choix manuel de la langue</b> de l'interface dans les Préférences, appliqué instantanément.</li>
+  <li>📦 <b>Onglet Modèles</b> — liste complète des langues prises en charge + bouton « Tout télécharger ».</li>
+  <li>🔄 <b>Mises à jour automatiques</b> intégrées : les prochaines versions s'installeront en un clic.</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · aucune requête réseau · aucun compte.</p>
+]]></description>
         </item>
     </channel>
 </rss>
