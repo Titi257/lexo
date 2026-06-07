@@ -8,8 +8,8 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Titi257/lexo/main/Lexo-1.2.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Titi257/lexo/releases/download/v1.2.0/Lexo-1.2.0.dmg" length="3899263" type="application/octet-stream" sparkle:edSignature="f/ecWdosDjkpdZPr1g2XnxpQaQaiNri1CVv9sP1kqt99aGkvrzYUzLhbnGypaOcnYmZKw9fXkzt4ErkmbrlJBQ=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Titi257/lexo/main/Lexo.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3899263" type="application/octet-stream" sparkle:edSignature="f/ecWdosDjkpdZPr1g2XnxpQaQaiNri1CVv9sP1kqt99aGkvrzYUzLhbnGypaOcnYmZKw9fXkzt4ErkmbrlJBQ=="/>
         </item>
     </channel>
 </rss>

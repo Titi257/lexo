@@ -8,7 +8,7 @@
 
 ![macOS 15+](https://img.shields.io/badge/macOS-15%2B-1d1d1f?logo=apple&logoColor=white)
 ![Universel](https://img.shields.io/badge/Universel-Intel%20%26%20Apple%20Silicon-555)
-![Langues](https://img.shields.io/badge/Interface-FR%20%7C%20EN%20%7C%20ES-6D4AFF)
+![Langues](https://img.shields.io/badge/Interface-40%20langues-6D4AFF)
 ![100% local](https://img.shields.io/badge/100%25-local%20%26%20priv%C3%A9-6D4AFF)
 ![Gratuit](https://img.shields.io/badge/Gratuit-%E2%9C%93-2ea44f)
 
@@ -28,11 +28,12 @@ Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la tr
 |---|---|
 | ⌨️ **Raccourci global** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
 | 🌍 **Partout** | Navigateur, Mail, PDF, Slack, Notes… |
-| 🗣️ **Interface multilingue** | Français, anglais et espagnol — automatiquement selon la langue de votre Mac |
+| 🗣️ **Interface en 40 langues** | Toutes les langues système de macOS — automatiquement, ou au choix dans les Préférences |
 | 🔒 **Privé & hors-ligne** | Via `Translation.framework` d'Apple |
 | 💬 **Bulle élégante** | Le résultat s'affiche près du curseur |
 | 🪶 **Discret** | Vit dans la barre de menus, sans icône Dock |
 | 📋 **Presse-papiers préservé** | Restauré à l'identique après chaque traduction |
+| 🔄 **Mises à jour automatiques** | L'app se met à jour toute seule, sans re-télécharger |
 
 ## 🚀 Installation
 
@@ -65,7 +66,7 @@ Un assistant vous guide :
 
 ## 🌐 Langues de l'interface
 
-L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatiquement** en **français, anglais ou espagnol** selon la langue de votre Mac — aucun réglage nécessaire. *(À ne pas confondre avec les langues **traduites**, qui couvrent des dizaines de langues via Apple Translation.)*
+L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatiquement dans 40 langues** — toutes les langues système de macOS (français, anglais, espagnol, allemand, japonais, arabe, chinois, russe, hindi…) — selon la langue de votre Mac. Vous pouvez aussi **choisir manuellement** une langue dans les **Préférences → Général**, appliquée instantanément. *(À ne pas confondre avec les langues **traduites**, fournies par Apple Translation.)*
 
 ## 🛟 Dépannage
 
