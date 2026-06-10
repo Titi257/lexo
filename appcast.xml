@@ -3,6 +3,21 @@
     <channel>
         <title>Lexo</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.1</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🛠 <b>Détection de langue plus fiable</b> — la langue source détectée est désormais toujours une langue qu'Apple Translation sait traduire (le russe n'est plus confondu avec le kazakh, par exemple). Fini les « Échec de la traduction » injustifiés.</li>
+  <li>💬 <b>Messages d'erreur plus clairs</b> — si une paire de langues n'est réellement pas prise en charge, Lexo l'explique précisément au lieu d'afficher « Traduction impossible ».</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · aucune requête réseau · aucun compte.</p>
+]]></description>
+            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3912101" type="application/octet-stream" sparkle:edSignature="svNabj8i7/r7iSg7vspv9GiJoEV8yrmHg2iWwjpQxEedA2t1hyqd8VjcV2sUBW3wKsbJBf0rXXhUdKHXhV0rCw=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
