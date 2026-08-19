@@ -8,7 +8,7 @@
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
+            <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
   <li>🔒 <b>Exact privacy wording</b> — Lexo used to say “no network requests”, while quietly checking for updates once a day. It now states what it actually does: your text never leaves your Mac, and the network is used only for Apple's translation models and the update check — which you can switch off in Preferences → About.</li>
   <li>🌍 <b>English fallback</b> — Macs set to a system language that isn't one of Lexo's 40 now show the interface in English instead of French.</li>
@@ -17,8 +17,7 @@
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
   <li>🛡 <b>One instance at a time</b> — launching Lexo while it is already running (from the mounted DMG, say, while the installed copy is active) now cleanly replaces the old instance instead of coexisting with it. Two simultaneous instances competed for the clipboard, so the shortcut could “translate” previously copied content instead of your selection.</li>
 </ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
-]]></description>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
             <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
   <li>🔒 <b>Formulation de confidentialité exacte</b> — Lexo affichait « aucune requête réseau » alors qu'il vérifiait discrètement les mises à jour une fois par jour. Il annonce désormais ce qu'il fait réellement : tes textes ne quittent jamais ton Mac, et le réseau ne sert qu'aux modèles de traduction d'Apple et à la recherche de mises à jour — désactivable dans Préférences → À propos.</li>
@@ -29,7 +28,6 @@
   <li>🛡 <b>Une seule instance à la fois</b> — lancer Lexo alors qu'il tourne déjà remplace proprement l'ancienne instance. Deux instances simultanées se disputaient le presse-papiers et pouvaient « traduire » un ancien contenu copié au lieu de la sélection.</li>
 </ul>
 <p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · tes textes ne quittent jamais ton Mac · aucun compte.</p>]]></description>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lexo/main/Lexo.fr.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3970772" type="application/octet-stream" sparkle:edSignature="W109tuING4KiHgiJAcLj0Lpj196gvpUnApZFHPlEL63K6WNrkSTFrB60PNxzLSREJ1a2Z0itS8QvSh9f5+mTCw=="/>
         </item>
         <item>
