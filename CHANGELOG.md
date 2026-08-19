@@ -4,6 +4,17 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.4
+
+- 🔒 **Privacy, in precise terms** — your text never leaves your Mac. The only
+  network connections are macOS downloading Apple's translation models, and
+  Lexo's own update check — which you can switch off in Preferences → About.
+  Earlier wording said "no network requests", which skipped over that update
+  check; every connection is now documented in [PRIVACY.md](PRIVACY.md), along
+  with how to verify it yourself.
+- 🌍 **English fallback** — Macs set to a system language that isn't one of
+  Lexo's 40 now show the interface in English instead of French.
+
 ## 1.2.3
 
 - 🛡 **One instance at a time** — launching Lexo while it is already running (from

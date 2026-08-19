@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🔒 <b>Exact privacy wording</b> — Lexo used to say “no network requests”, while quietly checking for updates once a day. It now states what it actually does: your text never leaves your Mac, and the network is used only for Apple's translation models and the update check — which you can switch off in Preferences → About.</li>
+  <li>🔒 <b>Privacy, in precise terms</b> — your text never leaves your Mac. The only network connections are macOS downloading Apple's translation models, and Lexo's own update check — which you can switch off in Preferences → About. Earlier wording said “no network requests”, which skipped over that update check; every connection is now documented in PRIVACY.md, along with how to verify it yourself.</li>
   <li>🌍 <b>English fallback</b> — Macs set to a system language that isn't one of Lexo's 40 now show the interface in English instead of French.</li>
 </ul>
 <h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.3</h2>
@@ -20,7 +20,7 @@
 <p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
             <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🔒 <b>Formulation de confidentialité exacte</b> — Lexo affichait « aucune requête réseau » alors qu'il vérifiait discrètement les mises à jour une fois par jour. Il annonce désormais ce qu'il fait réellement : tes textes ne quittent jamais ton Mac, et le réseau ne sert qu'aux modèles de traduction d'Apple et à la recherche de mises à jour — désactivable dans Préférences → À propos.</li>
+  <li>🔒 <b>Confidentialité, formulée précisément</b> — tes textes ne quittent jamais ton Mac. Les seules connexions réseau sont le téléchargement des modèles de traduction d'Apple par macOS et la vérification des mises à jour — désactivable dans Préférences → À propos. La formulation précédente, « aucune requête réseau », passait sous silence cette vérification ; chaque connexion est désormais documentée dans PRIVACY.md, avec la façon de le vérifier soi-même.</li>
   <li>🌍 <b>Repli en anglais</b> — les Mac réglés sur une langue système absente des 40 langues de Lexo affichent désormais l'interface en anglais au lieu du français.</li>
 </ul>
 <h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.3</h2>
