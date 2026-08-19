@@ -4,6 +4,12 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.5
+
+- ✍️ **Typography.** The interface no longer uses em dashes. Same wording,
+  cleaner punctuation, in all 40 languages: commas, colons and periods now do
+  the work, each following the conventions of its own script.
+
 ## 1.2.4
 
 - 🔒 **Privacy, in precise terms**: your text never leaves your Mac. The only
