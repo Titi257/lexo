@@ -3,3 +3,4 @@
 # d'après ces fichiers générés.
 appcast.xml linguist-generated=true
 *.md        linguist-documentation=true
+demo.gif   -diff -merge

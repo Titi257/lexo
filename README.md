@@ -20,6 +20,10 @@
 
 ### [⬇️&nbsp; Download Lexo.dmg](https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg)
 
+<img src="demo.gif" alt="Selecting an English paragraph in Safari, pressing ⌃⇧T, and the French translation appearing in a bubble" width="800">
+
+<sub>Select · press <b>⌃⇧T</b> · read. Translation runs on your Mac.</sub>
+
 </div>
 
 ---

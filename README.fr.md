@@ -20,6 +20,10 @@
 
 ### [⬇️&nbsp; Télécharger Lexo.dmg](https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg)
 
+<img src="demo.gif" alt="Sélection d'un paragraphe anglais dans Safari, appui sur ⌃⇧T, et la traduction française apparaît dans une bulle" width="800">
+
+<sub>Sélectionnez · appuyez sur <b>⌃⇧T</b> · lisez. La traduction tourne sur votre Mac.</sub>
+
 </div>
 
 ---
