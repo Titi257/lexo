@@ -4,6 +4,14 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.6
+
+- 🔎 **Windows now come to the front.** Checking for updates from the menu bar
+  opened Sparkle's window behind the app you were using, so the click seemed to
+  do nothing. The Preferences window had the same flaw. Recent macOS versions
+  refuse to bring a background app forward, so Lexo now raises its windows
+  directly instead of asking to be activated.
+
 ## 1.2.5
 
 - ✍️ **Typography.** The interface no longer uses em dashes. Same wording,

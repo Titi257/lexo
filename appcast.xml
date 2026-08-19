@@ -3,12 +3,38 @@
     <channel>
         <title>Lexo</title>
         <item>
+            <title>1.2.6</title>
+            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.6</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🔎 <b>Windows now come to the front.</b> Checking for updates from the menu bar opened Sparkle's window behind the app you were using, so the click seemed to do nothing. The Preferences window had the same flaw. Recent macOS versions refuse to bring a background app forward, so Lexo now raises its windows directly instead of asking to be activated.</li>
+</ul>
+<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>✍️ <b>Typography.</b> The interface no longer uses em dashes. Same wording, cleaner punctuation, in all 40 languages: commas, colons and periods now do the work, each following the conventions of its own script.</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
+            <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.6</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🔎 <b>Les fenêtres passent enfin au premier plan.</b> Lancer une recherche de mise à jour depuis la barre des menus ouvrait la fenêtre de Sparkle derrière l'app en cours : le clic semblait sans effet. La fenêtre des Préférences souffrait du même défaut. Les versions récentes de macOS refusent de mettre au premier plan une app d'arrière-plan ; Lexo remonte donc ses fenêtres directement, au lieu de demander à être activé.</li>
+</ul>
+<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>✍️ <b>Typographie.</b> L'interface n'utilise plus de tirets cadratins. Même formulation, ponctuation plus nette, dans les 40 langues : virgules, deux-points et points prennent le relais, selon les conventions propres à chaque écriture.</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · tes textes ne quittent jamais ton Mac · aucun compte.</p>]]></description>
+            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3977202" type="application/octet-stream" sparkle:edSignature="6DOaX1tncpr7B5uNCvwMl2WIJAZkCZTJGkwhx5vP1zRi46eWQE5OvK7hxDyEfpeFnikHCp8s1OPDwEjHannuDA=="/>
+        </item>
+        <item>
             <title>1.2.5</title>
             <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
+            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
   <li>✍️ <b>Typography.</b> The interface no longer uses em dashes. Same wording, cleaner punctuation, in all 40 languages: commas, colons and periods now do the work, each following the conventions of its own script.</li>
 </ul>
@@ -17,17 +43,8 @@
   <li>🔒 <b>Privacy, in precise terms.</b> Your text never leaves your Mac. The only network connections are macOS downloading Apple's translation models, and Lexo's own update check, which you can switch off in Preferences → About. Earlier wording said “no network requests”, which skipped over that update check; every connection is now documented in PRIVACY.md, along with how to verify it yourself.</li>
   <li>🌍 <b>English fallback.</b> Macs set to a system language that isn't one of Lexo's 40 now show the interface in English instead of French.</li>
 </ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
-            <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>✍️ <b>Typographie.</b> L'interface n'utilise plus de tirets cadratins. Même formulation, ponctuation plus nette, dans les 40 langues : virgules, deux-points et points prennent le relais, selon les conventions propres à chaque écriture.</li>
-</ul>
-<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.4</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🔒 <b>Confidentialité, formulée précisément.</b> Tes textes ne quittent jamais ton Mac. Les seules connexions réseau sont le téléchargement des modèles de traduction d'Apple par macOS et la vérification des mises à jour, désactivable dans Préférences → À propos. La formulation précédente, « aucune requête réseau », passait sous silence cette vérification ; chaque connexion est désormais documentée dans PRIVACY.md, avec la façon de le vérifier soi-même.</li>
-  <li>🌍 <b>Repli en anglais.</b> Les Mac réglés sur une langue système absente des 40 langues de Lexo affichent désormais l'interface en anglais au lieu du français.</li>
-</ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · tes textes ne quittent jamais ton Mac · aucun compte.</p>]]></description>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
+]]></description>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3970880" type="application/octet-stream" sparkle:edSignature="a/JXETy7zeSFzIO6fAe4ZMV5dhNPiI5WyOlpkfZOq/tQnQz32Bohq/Az3s5uKYIK0r8B70N+rE/c/w6f6VJ5BA=="/>
         </item>
         <item>
@@ -48,26 +65,6 @@
 <p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
 ]]></description>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3970772" type="application/octet-stream" sparkle:edSignature="W109tuING4KiHgiJAcLj0Lpj196gvpUnApZFHPlEL63K6WNrkSTFrB60PNxzLSREJ1a2Z0itS8QvSh9f5+mTCw=="/>
-        </item>
-        <item>
-            <title>1.2.3</title>
-            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.3</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🛡 <b>Une seule instance à la fois.</b> Lancer Lexo alors qu'il tourne déjà remplace proprement l'ancienne instance. Deux instances simultanées se disputaient le presse-papiers et pouvaient « traduire » un ancien contenu copié au lieu de la sélection.</li>
-</ul>
-<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.2</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🌍 <b>Les langues non prises en charge sont clairement signalées.</b> Sélectionner du texte dans une langue qu'Apple Translation ne couvre pas (hongrois, tchèque, grec, suédois…) affiche désormais « Langue non prise en charge », avec le nom de la langue détectée, au lieu d'une fausse traduction illisible.</li>
-  <li>🎯 <b>Détection de langue affinée.</b> Une langue proche n'est retenue que si elle est réellement plausible ; la détection ne force plus jamais un choix erroné.</li>
-  <li>💬 Le nouveau message est localisé dans les 40 langues d'interface.</li>
-</ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · aucune requête réseau · aucun compte.</p>
-]]></description>
-            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3932596" type="application/octet-stream" sparkle:edSignature="gXKH1KoHhpTiT+7eZWzvGduUsv6nDciLSB7to9EiNZNvmoqoFIVb9jotKr5RWnOa3PlWj4AN/9sAKcOKGjnmBA=="/>
         </item>
     </channel>
 </rss>
