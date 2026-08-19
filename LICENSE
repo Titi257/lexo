@@ -1,0 +1,33 @@
+Lexo — End User License Agreement
+Copyright © 2026 Kevin Boileux. All rights reserved.
+
+Lexo is free of charge, and free to use — for personal or commercial purposes,
+on as many Macs as you own, with no account and no time limit.
+
+It is NOT open source. This repository hosts the download page, the release
+notes and the update feed; the source code is not published. The following
+therefore applies to the compiled application distributed here:
+
+GRANT. You are granted a perpetual, worldwide, royalty-free, non-exclusive
+licence to install and use the Lexo application, and to redistribute the
+unmodified, signed .dmg as published in this repository's Releases.
+
+RESTRICTIONS. You may not reverse-engineer, decompile or disassemble the
+application, except to the extent that applicable law expressly permits it. You
+may not sell it, bundle it into a paid product, or redistribute a modified or
+re-signed build of it. The names "Lexo" and "Kevin Boileux" and the application
+icon may not be used to endorse or promote derived products.
+
+NO WARRANTY. The application is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and non-infringement. In no
+event shall the author be liable for any claim, damages or other liability
+arising from, out of or in connection with the application or its use.
+
+THIRD-PARTY COMPONENTS. Lexo embeds Sparkle (https://sparkle-project.org,
+MIT licence) and KeyboardShortcuts by Sindre Sorhus
+(https://github.com/sindresorhus/KeyboardShortcuts, MIT licence). Translation is
+performed by Apple's Translation.framework, part of macOS. Their respective
+licences and terms apply to those components.
+
+PRIVACY. See PRIVACY.md — the application collects no data whatsoever.

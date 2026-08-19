@@ -1,0 +1,5 @@
+# Ce dépôt est une vitrine de distribution (page de téléchargement, notes de
+# version, flux Sparkle) — pas du code. On empêche linguist d'étiqueter le dépôt
+# d'après ces fichiers générés.
+appcast.xml linguist-generated=true
+*.md        linguist-documentation=true

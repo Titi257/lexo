@@ -26,7 +26,7 @@
 
 Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la traduction apparaît dans une petite bulle près de votre curseur. C'est tout.
 
-> 🔒 **100 % local** — la traduction tourne sur votre Mac via le moteur d'Apple. Aucune requête réseau, aucun compte, aucune télémétrie.
+> 🔒 **100 % local** — la traduction tourne sur votre Mac via le moteur d'Apple. **Vos textes ne quittent jamais la machine.** Aucun compte, aucune télémétrie. ([ce qui touche au réseau, précisément →](PRIVACY.md))
 
 ## ✨ Fonctionnalités
 
@@ -35,7 +35,7 @@ Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la tr
 | ⌨️ **Raccourci global** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
 | 🌍 **Partout** | Navigateur, Mail, PDF, Slack, Notes… |
 | 🗣️ **Interface en 40 langues** | Toutes les langues système de macOS — automatiquement, ou au choix dans les Préférences |
-| 🔒 **Privé & hors-ligne** | Via `Translation.framework` d'Apple |
+| 🔒 **Privé** | Vos textes ne quittent jamais votre Mac — `Translation.framework` d'Apple |
 | 💬 **Bulle élégante** | Le résultat s'affiche près du curseur |
 | 🪶 **Discret** | Vit dans la barre de menus, sans icône Dock |
 | 📋 **Presse-papiers préservé** | Restauré à l'identique après chaque traduction |
@@ -79,6 +79,12 @@ L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatique
 - **Rien ne se passe au raccourci** → vérifiez l'**Accessibilité** dans les Réglages, puis relancez l'app.
 - **« Aucune sélection détectée »** → sélectionnez bien du texte avant d'appuyer ; dans Slack / VS Code / Discord, réessayez une fois.
 - **Conflit de raccourci** → redéfinissez-le dans **Préférences**.
+
+## 🆘 Support & retours
+
+Un bug, un comportement bizarre dans une app précise ? **[Ouvrez une issue](https://github.com/Titi257/lexo/issues/new/choose)** — en précisant votre version de macOS, l'app dans laquelle vous sélectionniez le texte, et les langues source/cible.
+
+Lexo est **gratuit** et à code fermé. Ce que l'app fait — et ne fait pas — sur le réseau est documenté dans **[PRIVACY.md](PRIVACY.md)** ; chaque version est signée et notarisée par Apple. Historique : **[CHANGELOG.md](CHANGELOG.md)**.
 
 ---
 

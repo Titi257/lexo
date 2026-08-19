@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Privacy — what Lexo does on the network
+    url: https://github.com/Titi257/lexo/blob/main/PRIVACY.md
+    about: Every connection the app makes, and how to verify it yourself.
+  - name: 🛟 Troubleshooting
+    url: https://github.com/Titi257/lexo#-troubleshooting
+    about: Nothing happens on the shortcut? Start here.
+  - name: 🌐 Website
+    url: https://kevin-boileux.com/en/lexo
+    about: Product page and other apps.

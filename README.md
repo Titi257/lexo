@@ -26,7 +26,7 @@
 
 Select text, press **`⌃⇧T`** *(Ctrl + Shift + T)*, and the translation appears in a small bubble near your cursor. That's it.
 
-> 🔒 **100% on-device** — translation runs on your Mac via Apple's engine. No network requests, no account, no telemetry.
+> 🔒 **100% on-device** — translation runs on your Mac via Apple's engine. **Your text never leaves your machine.** No account, no telemetry. ([exactly what touches the network →](PRIVACY.md))
 
 ## ✨ Features
 
@@ -35,7 +35,7 @@ Select text, press **`⌃⇧T`** *(Ctrl + Shift + T)*, and the translation appea
 | ⌨️ **Global shortcut** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
 | 🌍 **Everywhere** | Browser, Mail, PDF, Slack, Notes… |
 | 🗣️ **Interface in 40 languages** | Every macOS system language — automatically, or your pick in Preferences |
-| 🔒 **Private & offline** | Via Apple's `Translation.framework` |
+| 🔒 **Private** | Your text never leaves your Mac — Apple's `Translation.framework` |
 | 💬 **Elegant bubble** | The result appears near your cursor |
 | 🪶 **Unobtrusive** | Lives in the menu bar, no Dock icon |
 | 📋 **Clipboard preserved** | Restored exactly after every translation |
@@ -79,6 +79,12 @@ Lexo's interface (guide, preferences, menus, bubble) is shown **automatically in
 - **Nothing happens on the shortcut** → check **Accessibility** in Settings, then relaunch the app.
 - **"No selection detected"** → make sure text is selected before pressing; in Slack / VS Code / Discord, try once more.
 - **Shortcut conflict** → redefine it in **Preferences**.
+
+## 🆘 Support & feedback
+
+Found a bug, or something behaves oddly in a specific app? **[Open an issue](https://github.com/Titi257/lexo/issues/new/choose)** — please include your macOS version, the app you were selecting text in, and the source/target languages.
+
+Lexo is **free** and closed-source. What it does — and does not do — on the network is documented in **[PRIVACY.md](PRIVACY.md)**; every release is signed and notarized by Apple. Version history: **[CHANGELOG.md](CHANGELOG.md)**.
 
 ---
 

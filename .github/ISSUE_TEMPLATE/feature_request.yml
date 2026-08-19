@@ -1,0 +1,15 @@
+name: 💡 Idea / feature request
+description: Suggest something Lexo should do
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Lexo to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What are you trying to accomplish?
+      description: The underlying need matters more than the specific solution — it often has a simpler answer.

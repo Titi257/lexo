@@ -26,7 +26,7 @@
 
 Selecciona texto, pulsa **`⌃⇧T`** *(Ctrl + Shift + T)*, y la traducción aparece en una pequeña burbuja junto a tu cursor. Eso es todo.
 
-> 🔒 **100 % local** — la traducción se ejecuta en tu Mac mediante el motor de Apple. Sin peticiones de red, sin cuenta, sin telemetría.
+> 🔒 **100 % local** — la traducción se ejecuta en tu Mac mediante el motor de Apple. **Tus textos nunca salen de la máquina.** Sin cuenta, sin telemetría. ([qué usa la red, exactamente →](PRIVACY.md))
 
 ## ✨ Funciones
 
@@ -35,7 +35,7 @@ Selecciona texto, pulsa **`⌃⇧T`** *(Ctrl + Shift + T)*, y la traducción apa
 | ⌨️ **Atajo global** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
 | 🌍 **En todas partes** | Navegador, Mail, PDF, Slack, Notas… |
 | 🗣️ **Interfaz en 40 idiomas** | Todos los idiomas del sistema de macOS — automáticamente, o a tu elección en Preferencias |
-| 🔒 **Privado y sin conexión** | Mediante `Translation.framework` de Apple |
+| 🔒 **Privado** | Tus textos nunca salen de tu Mac — `Translation.framework` de Apple |
 | 💬 **Burbuja elegante** | El resultado aparece junto a tu cursor |
 | 🪶 **Discreto** | Vive en la barra de menús, sin icono en el Dock |
 | 📋 **Portapapeles preservado** | Restaurado igual tras cada traducción |
@@ -79,6 +79,12 @@ La interfaz de Lexo (guía, preferencias, menús, burbuja) se muestra **automát
 - **No pasa nada con el atajo** → comprueba la **Accesibilidad** en Ajustes y reinicia la app.
 - **«No se detectó ninguna selección»** → asegúrate de seleccionar texto antes de pulsar; en Slack / VS Code / Discord, inténtalo otra vez.
 - **Conflicto de atajo** → redefínelo en **Preferencias**.
+
+## 🆘 Soporte y comentarios
+
+¿Un error, o un comportamiento extraño en una app concreta? **[Abre una issue](https://github.com/Titi257/lexo/issues/new/choose)** — indica tu versión de macOS, la app en la que seleccionabas el texto y los idiomas de origen/destino.
+
+Lexo es **gratis** y de código cerrado. Lo que la app hace — y lo que no hace — en la red está documentado en **[PRIVACY.md](PRIVACY.md)**; cada versión está firmada y notarizada por Apple. Historial: **[CHANGELOG.md](CHANGELOG.md)**.
 
 ---
 

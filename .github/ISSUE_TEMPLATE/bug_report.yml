@@ -1,0 +1,56 @@
+name: 🐞 Bug report
+description: Something doesn't work, or works oddly in a specific app
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. The three fields below (macOS version, the app
+        you selected text in, and the language pair) resolve most reports on their own.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did you get instead?
+      placeholder: I pressed ⌃⇧T on a selection in Safari and nothing appeared.
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.4 (Sequoia)"
+    validations:
+      required: true
+  - type: input
+    id: lexo
+    attributes:
+      label: Lexo version
+      description: Menu bar icon → Preferences → About
+      placeholder: "1.2.3"
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Which app were you selecting text in?
+      placeholder: "Safari / Slack / Preview / VS Code…"
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Source → target language
+      placeholder: "English → French"
+  - type: dropdown
+    id: accessibility
+    attributes:
+      label: Is Lexo enabled in System Settings → Privacy & Security → Accessibility?
+      options: ["Yes", "No", "Not sure"]
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots or a screen recording help a lot. Please don't paste confidential text.
