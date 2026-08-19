@@ -6,18 +6,18 @@ Lexo 1.2.0 and later update themselves.
 
 ## 1.2.4
 
-- 🔒 **Privacy, in precise terms** — your text never leaves your Mac. The only
+- 🔒 **Privacy, in precise terms**: your text never leaves your Mac. The only
   network connections are macOS downloading Apple's translation models, and
-  Lexo's own update check — which you can switch off in Preferences → About.
+  Lexo's own update check, which you can switch off in Preferences → About.
   Earlier wording said "no network requests", which skipped over that update
   check; every connection is now documented in [PRIVACY.md](PRIVACY.md), along
   with how to verify it yourself.
-- 🌍 **English fallback** — Macs set to a system language that isn't one of
+- 🌍 **English fallback**: Macs set to a system language that isn't one of
   Lexo's 40 now show the interface in English instead of French.
 
 ## 1.2.3
 
-- 🛡 **One instance at a time** — launching Lexo while it is already running (from
+- 🛡 **One instance at a time**: launching Lexo while it is already running (from
   the mounted DMG, say, while the installed copy is active) now cleanly replaces
   the old instance instead of coexisting with it. Two simultaneous instances
   competed for the clipboard, so the shortcut could "translate" previously copied
@@ -25,29 +25,29 @@ Lexo 1.2.0 and later update themselves.
 
 ## 1.2.2
 
-- 🌍 **Unsupported languages are clearly flagged** — selecting text in a language
+- 🌍 **Unsupported languages are clearly flagged**: selecting text in a language
   Apple Translation does not cover (Hungarian, Czech, Greek, Swedish…) now shows
   "Language not supported", naming the detected language, instead of an
   unreadable mistranslation.
-- 🎯 **Sharper language detection** — a close language is only picked when it is
+- 🎯 **Sharper language detection**: a close language is only picked when it is
   genuinely plausible; detection never forces a wrong guess.
 - 💬 The new message is localized in all 40 interface languages.
 
 ## 1.2.1
 
-- 🛠 **More reliable language detection** — the detected source language is now
+- 🛠 **More reliable language detection**: the detected source language is now
   always one Apple Translation can actually handle (Russian is no longer mistaken
   for Kazakh, for instance). No more unwarranted "Translation failed".
-- 💬 **Clearer error messages** — when a language pair really is unsupported,
+- 💬 **Clearer error messages**: when a language pair really is unsupported,
   Lexo explains precisely why instead of showing "Translation unavailable".
 
 ## 1.2.0
 
-- 🌍 **Interface in 40 languages** — Lexo follows your Mac's language
+- 🌍 **Interface in 40 languages**: Lexo follows your Mac's language
   automatically (German, Spanish, Japanese, Arabic…).
 - 🔤 **Manual interface language** picker in Preferences, applied instantly, no
   restart.
-- 📦 **Models tab** — the full list of supported languages, with a "Download all"
+- 📦 **Models tab**: the full list of supported languages, with a "Download all"
   button.
 - 🔄 **Automatic updates** built in: from this version on, updates install in one
   click.

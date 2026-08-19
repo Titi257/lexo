@@ -10,7 +10,7 @@
 
 # Lexo
 
-**Traduisez le texte sélectionné dans n'importe quelle app macOS — d'un simple raccourci.**
+**Traduisez le texte sélectionné dans n'importe quelle app macOS, d'un simple raccourci.**
 
 ![macOS 15+](https://img.shields.io/badge/macOS-15%2B-1d1d1f?logo=apple&logoColor=white)
 ![Universel](https://img.shields.io/badge/Universel-Intel%20%26%20Apple%20Silicon-555)
@@ -30,16 +30,16 @@
 
 Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la traduction apparaît dans une petite bulle près de votre curseur. C'est tout.
 
-> 🔒 **100 % local** — la traduction tourne sur votre Mac via le moteur d'Apple. **Vos textes ne quittent jamais la machine.** Aucun compte, aucune télémétrie. ([ce qui touche au réseau, précisément →](PRIVACY.md))
+> 🔒 **100 % local**: la traduction tourne sur votre Mac via le moteur d'Apple. **Vos textes ne quittent jamais la machine.** Aucun compte, aucune télémétrie. ([ce qui touche au réseau, précisément →](PRIVACY.md))
 
 ## ✨ Fonctionnalités
 
 |  |  |
 |---|---|
-| ⌨️ **Raccourci global** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
+| ⌨️ **Raccourci global** | `⌃⇧T` *(Ctrl + Shift + T)*, configurable |
 | 🌍 **Partout** | Navigateur, Mail, PDF, Slack, Notes… |
-| 🗣️ **Interface en 40 langues** | Toutes les langues système de macOS — automatiquement, ou au choix dans les Préférences |
-| 🔒 **Privé** | Vos textes ne quittent jamais votre Mac — `Translation.framework` d'Apple |
+| 🗣️ **Interface en 40 langues** | Toutes les langues système de macOS, automatiquement ou au choix dans les Préférences |
+| 🔒 **Privé** | Vos textes ne quittent jamais votre Mac, via `Translation.framework` d'Apple |
 | 💬 **Bulle élégante** | Le résultat s'affiche près du curseur |
 | 🪶 **Discret** | Vit dans la barre de menus, sans icône Dock |
 | 📋 **Presse-papiers préservé** | Restauré à l'identique après chaque traduction |
@@ -51,32 +51,32 @@ Sélectionnez du texte, appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*, et la tr
 2. Ouvrez-le, puis glissez **Lexo** dans **Applications**.
 3. Lancez **Lexo** depuis Applications.
 
-> ✅ Signée et notarisée par Apple — aucun avertissement « développeur non identifié » au lancement.
+> ✅ Signée et notarisée par Apple: aucun avertissement « développeur non identifié » au lancement.
 
 ## 🟢 Premier lancement
 
 Un assistant vous guide :
 
-1. **Accessibilité** — cliquez sur *Ouvrir Réglages*, puis activez **Lexo** dans
+1. **Accessibilité**: cliquez sur *Ouvrir Réglages*, puis activez **Lexo** dans
    *Réglages Système → Confidentialité et sécurité → Accessibilité*. Indispensable pour lire votre sélection.
-2. **Langue cible** — la langue **vers laquelle** traduire (français par défaut), modifiable à tout moment.
+2. **Langue cible**: la langue **vers laquelle** traduire (français par défaut), modifiable à tout moment.
 
 ## ⚙️ Configuration requise
 
 - **macOS 15 (Sequoia)** ou plus récent
-- **Mac Intel ou Apple Silicon** — application universelle
+- **Mac Intel ou Apple Silicon**, application universelle
 
 ## 🧩 Utilisation
 
 1. **Sélectionnez** du texte dans n'importe quelle app.
 2. Appuyez sur **`⌃⇧T`** *(Ctrl + Shift + T)*.
-3. La bulle affiche la traduction — `Échap` la ferme, **Copier** la met dans le presse-papiers.
+3. La bulle affiche la traduction. `Échap` la ferme, **Copier** la met dans le presse-papiers.
 
 > Première traduction d'une nouvelle paire de langues : macOS télécharge le modèle (~30 Mo), une seule fois. Ensuite, tout est instantané et hors-ligne.
 
 ## 🌐 Langues de l'interface
 
-L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatiquement dans 40 langues** — toutes les langues système de macOS (français, anglais, espagnol, allemand, japonais, arabe, chinois, russe, hindi…) — selon la langue de votre Mac. Vous pouvez aussi **choisir manuellement** une langue dans les **Préférences → Général**, appliquée instantanément. *(À ne pas confondre avec les langues **traduites**, fournies par Apple Translation.)*
+L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatiquement dans 40 langues**, toutes les langues système de macOS (français, anglais, espagnol, allemand, japonais, arabe, chinois, russe, hindi…), selon la langue de votre Mac. Vous pouvez aussi **choisir manuellement** une langue dans les **Préférences → Général**, appliquée instantanément. *(À ne pas confondre avec les langues **traduites**, fournies par Apple Translation.)*
 
 ## 🛟 Dépannage
 
@@ -86,12 +86,12 @@ L'interface de Lexo (guide, préférences, menus, bulle) s'affiche **automatique
 
 ## 🆘 Support & retours
 
-Un bug, un comportement bizarre dans une app précise ? **[Ouvrez une issue](https://github.com/Titi257/lexo/issues/new/choose)** — en précisant votre version de macOS, l'app dans laquelle vous sélectionniez le texte, et les langues source/cible.
+Un bug, un comportement bizarre dans une app précise ? **[Ouvrez une issue](https://github.com/Titi257/lexo/issues/new/choose)**, en précisant votre version de macOS, l'app dans laquelle vous sélectionniez le texte, et les langues source/cible.
 
-Lexo est **gratuit** et à code fermé. Ce que l'app fait — et ne fait pas — sur le réseau est documenté dans **[PRIVACY.md](PRIVACY.md)** ; chaque version est signée et notarisée par Apple. Historique : **[CHANGELOG.md](CHANGELOG.md)**.
+Lexo est **gratuit** et à code fermé. Ce que l'app fait, et ne fait pas, sur le réseau est documenté dans **[PRIVACY.md](PRIVACY.md)** ; chaque version est signée et notarisée par Apple. Historique : **[CHANGELOG.md](CHANGELOG.md)**.
 
 ---
 
 <div align="center">
-<sub>© 2026 Kevin Boileux — Tous droits réservés · <a href="https://kevin-boileux.com/fr/lexo">kevin-boileux.com</a></sub>
+<sub>© 2026 Kevin Boileux · Tous droits réservés · <a href="https://kevin-boileux.com/fr/lexo">kevin-boileux.com</a></sub>
 </div>

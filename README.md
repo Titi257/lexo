@@ -10,7 +10,7 @@
 
 # Lexo
 
-**Translate selected text in any macOS app — with a single shortcut.**
+**Translate selected text in any macOS app, with a single shortcut.**
 
 ![macOS 15+](https://img.shields.io/badge/macOS-15%2B-1d1d1f?logo=apple&logoColor=white)
 ![Universal](https://img.shields.io/badge/Universal-Intel%20%26%20Apple%20Silicon-555)
@@ -30,16 +30,16 @@
 
 Select text, press **`⌃⇧T`** *(Ctrl + Shift + T)*, and the translation appears in a small bubble near your cursor. That's it.
 
-> 🔒 **100% on-device** — translation runs on your Mac via Apple's engine. **Your text never leaves your machine.** No account, no telemetry. ([exactly what touches the network →](PRIVACY.md))
+> 🔒 **100% on-device**: translation runs on your Mac via Apple's engine. **Your text never leaves your machine.** No account, no telemetry. ([exactly what touches the network →](PRIVACY.md))
 
 ## ✨ Features
 
 |  |  |
 |---|---|
-| ⌨️ **Global shortcut** | `⌃⇧T` *(Ctrl + Shift + T)* — configurable |
+| ⌨️ **Global shortcut** | `⌃⇧T` *(Ctrl + Shift + T)*, configurable |
 | 🌍 **Everywhere** | Browser, Mail, PDF, Slack, Notes… |
-| 🗣️ **Interface in 40 languages** | Every macOS system language — automatically, or your pick in Preferences |
-| 🔒 **Private** | Your text never leaves your Mac — Apple's `Translation.framework` |
+| 🗣️ **Interface in 40 languages** | Every macOS system language, automatically or your pick in Preferences |
+| 🔒 **Private** | Your text never leaves your Mac, via Apple's `Translation.framework` |
 | 💬 **Elegant bubble** | The result appears near your cursor |
 | 🪶 **Unobtrusive** | Lives in the menu bar, no Dock icon |
 | 📋 **Clipboard preserved** | Restored exactly after every translation |
@@ -51,32 +51,32 @@ Select text, press **`⌃⇧T`** *(Ctrl + Shift + T)*, and the translation appea
 2. Open it, then drag **Lexo** into **Applications**.
 3. Launch **Lexo** from Applications.
 
-> ✅ Signed and notarized by Apple — no "unidentified developer" warning on launch.
+> ✅ Signed and notarized by Apple: no "unidentified developer" warning on launch.
 
 ## 🟢 First launch
 
 A short assistant guides you:
 
-1. **Accessibility** — click *Open Settings*, then enable **Lexo** in
+1. **Accessibility**: click *Open Settings*, then enable **Lexo** in
    *System Settings → Privacy & Security → Accessibility*. Required to read your selection.
-2. **Target language** — the language to translate **into** (French by default), changeable anytime.
+2. **Target language**: the language to translate **into** (French by default), changeable anytime.
 
 ## ⚙️ Requirements
 
 - **macOS 15 (Sequoia)** or later
-- **Intel or Apple Silicon Mac** — universal app
+- **Intel or Apple Silicon Mac**, universal app
 
 ## 🧩 Usage
 
 1. **Select** text in any app.
 2. Press **`⌃⇧T`** *(Ctrl + Shift + T)*.
-3. The bubble shows the translation — `Esc` closes it, **Copy** puts it on the clipboard.
+3. The bubble shows the translation. `Esc` closes it, **Copy** puts it on the clipboard.
 
 > First translation of a new language pair: macOS downloads the model (~30 MB) once. After that, everything is instant and offline.
 
 ## 🌐 Interface languages
 
-Lexo's interface (guide, preferences, menus, bubble) is shown **automatically in 40 languages** — every macOS system language (English, French, Spanish, German, Japanese, Arabic, Chinese, Russian, Hindi…) — based on your Mac's language. You can also **pick a language manually** in **Preferences → General**, applied instantly. *(Not to be confused with the **translated** languages, provided by Apple Translation.)*
+Lexo's interface (guide, preferences, menus, bubble) is shown **automatically in 40 languages**, every macOS system language (English, French, Spanish, German, Japanese, Arabic, Chinese, Russian, Hindi…), following your Mac's language. You can also **pick a language manually** in **Preferences → General**, applied instantly. *(Not to be confused with the **translated** languages, provided by Apple Translation.)*
 
 ## 🛟 Troubleshooting
 
@@ -86,12 +86,12 @@ Lexo's interface (guide, preferences, menus, bubble) is shown **automatically in
 
 ## 🆘 Support & feedback
 
-Found a bug, or something behaves oddly in a specific app? **[Open an issue](https://github.com/Titi257/lexo/issues/new/choose)** — please include your macOS version, the app you were selecting text in, and the source/target languages.
+Found a bug, or something behaves oddly in a specific app? **[Open an issue](https://github.com/Titi257/lexo/issues/new/choose)**. Please include your macOS version, the app you were selecting text in, and the source/target languages.
 
-Lexo is **free** and closed-source. What it does — and does not do — on the network is documented in **[PRIVACY.md](PRIVACY.md)**; every release is signed and notarized by Apple. Version history: **[CHANGELOG.md](CHANGELOG.md)**.
+Lexo is **free** and closed-source. What it does, and does not do, on the network is documented in **[PRIVACY.md](PRIVACY.md)**; every release is signed and notarized by Apple. Version history: **[CHANGELOG.md](CHANGELOG.md)**.
 
 ---
 
 <div align="center">
-<sub>© 2026 Kevin Boileux — All rights reserved · <a href="https://kevin-boileux.com/en/lexo">kevin-boileux.com</a></sub>
+<sub>© 2026 Kevin Boileux · All rights reserved · <a href="https://kevin-boileux.com/en/lexo">kevin-boileux.com</a></sub>
 </div>
