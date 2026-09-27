@@ -25,7 +25,7 @@ app.
 
 | What | Where | Notes |
 |---|---|---|
-| Translation history | `~/Library/Application Support/com.kevboileux.translate/history.json` | Last 500 entries. Clear it anytime from **Preferences → History → Clear all**, or delete the file. |
+| Translation history | `~/Library/Application Support/com.kevboileux.translate/history.json` | Last 500 entries, kept forever by default. In **Preferences → History** you can keep them for 24 hours, 7 days or 30 days instead, clear them, or turn history off entirely: nothing is recorded and the file is deleted. |
 | Preferences | `~/Library/Preferences/com.kevboileux.translate.plist` | Target language, shortcut, interface language. |
 | Diagnostic log | `~/Library/Logs/Translate/translate.log` | **Off by default**: a normal install never creates it. When enabled for debugging it records only metadata (text *lengths*, language codes, app bundle ids), never the text itself. |
 

@@ -4,6 +4,24 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.7
+
+- 🗂️ **History you control.** A new switch in Preferences → History turns it
+  off entirely, which also erases what was already saved. Or keep it and choose
+  how long: 24 hours, 7 days, 30 days or forever.
+- ⚡ **Faster capture.** Lexo no longer waits a fixed delay after copying your
+  selection: the bubble appears as soon as the app has copied it, and Lexo
+  stays responsive meanwhile.
+- 📋 **Your clipboard left alone.** When nothing is selected, your clipboard is
+  not touched at all, and clipboard managers no longer record a duplicate of
+  your last item.
+- 💬 **Clearer messages.** "Downloading model" only shows when a model is
+  really being downloaded, and text whose language can't be detected now says
+  so plainly.
+- 🔊 **Better voices.** Read aloud now picks a voice from your region (US or UK
+  English, Brazilian or European Portuguese) and a Taiwanese voice for
+  Traditional Chinese.
+
 ## 1.2.6
 
 - 🔎 **Windows now come to the front.** Checking for updates from the menu bar
