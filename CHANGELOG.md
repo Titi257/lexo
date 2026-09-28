@@ -4,6 +4,12 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.8
+
+- 🖐️ **The bubble can be moved again.** On macOS 27, the translation bubble
+  could no longer be dragged. Grab it by its header, its margins or its footer
+  to move it; the text areas stay reserved for selecting text.
+
 ## 1.2.7
 
 - 🗂️ **History you control.** A new switch in Preferences → History turns it
