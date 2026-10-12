@@ -60,6 +60,7 @@ A short assistant guides you:
 1. **Accessibility**: click *Open Settings*, then enable **Lexo** in
    *System Settings → Privacy & Security → Accessibility*. Required to read your selection.
 2. **Target language**: the language to translate **into** (French by default), changeable anytime.
+3. **Launch at login**: a checkbox, checked by default, lets Lexo start with your Mac. Nothing is added to your login items without it, and you can change it anytime in Preferences → General.
 
 ## ⚙️ Requirements
 

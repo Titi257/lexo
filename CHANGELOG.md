@@ -4,6 +4,18 @@ All notable changes to Lexo. Every version is signed and notarized by Apple and
 distributed from [Releases](https://github.com/Titi257/lexo/releases/latest);
 Lexo 1.2.0 and later update themselves.
 
+## 1.2.9
+
+- 🚀 **Launch at login, your call.** On a new installation, Lexo no longer
+  adds itself to your login items without asking: the welcome guide now offers
+  it with a checkbox, checked by default. If you already use Lexo, your setting
+  is unchanged, and you can still change it in Preferences → General.
+- 🔒 **Privacy policy.** A link in Preferences → About now opens Lexo's privacy
+  policy, in English, French or Spanish.
+- 🙏 **Acknowledgments.** Preferences → About now credits Sparkle and
+  KeyboardShortcuts, the open source projects Lexo builds on, and shows their
+  licenses in full.
+
 ## 1.2.8
 
 - 🖐️ **The bubble can be moved again.** On macOS 27, the translation bubble

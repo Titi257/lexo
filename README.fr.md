@@ -60,6 +60,7 @@ Un assistant vous guide :
 1. **Accessibilité**: cliquez sur *Ouvrir Réglages*, puis activez **Lexo** dans
    *Réglages Système → Confidentialité et sécurité → Accessibilité*. Indispensable pour lire votre sélection.
 2. **Langue cible**: la langue **vers laquelle** traduire (français par défaut), modifiable à tout moment.
+3. **Ouverture de session**: une case, cochée par défaut, propose de lancer Lexo au démarrage du Mac. Rien n'est ajouté aux éléments d'ouverture sans ce choix, modifiable à tout moment dans Préférences → Général.
 
 ## ⚙️ Configuration requise
 

@@ -3,12 +3,42 @@
     <channel>
         <title>Lexo</title>
         <item>
+            <title>1.2.9</title>
+            <pubDate>Mon, 12 Oct 2026 07:58:14 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.9</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🚀 <b>Launch at login, your call.</b> On a new installation, Lexo no longer adds itself to your login items without asking: the welcome guide now offers it with a checkbox, checked by default. If you already use Lexo, your setting is unchanged, and you can still change it in Preferences → General.</li>
+  <li>🔒 <b>Privacy policy.</b> A link in Preferences → About now opens Lexo's privacy policy, in English, French or Spanish.</li>
+  <li>🙏 <b>Acknowledgments.</b> Preferences → About now credits Sparkle and KeyboardShortcuts, the open source projects Lexo builds on, and shows their licenses in full.</li>
+</ul>
+<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.8</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🖐️ <b>The bubble can be moved again.</b> On macOS 27, the translation bubble could no longer be dragged. Grab it by its header, its margins or its footer to move it; the text areas stay reserved for selecting text.</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
+            <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.9</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🚀 <b>Lancement à l'ouverture de session : à toi de choisir.</b> Lors d'une nouvelle installation, Lexo ne s'ajoute plus aux éléments d'ouverture sans rien demander : le guide de bienvenue le propose avec une case, cochée par défaut. Si tu utilises déjà Lexo, ton réglage ne change pas, et il reste modifiable dans Préférences → Général.</li>
+  <li>🔒 <b>Politique de confidentialité.</b> Un lien dans Préférences → À propos ouvre la politique de confidentialité de Lexo, en français, en anglais ou en espagnol.</li>
+  <li>🙏 <b>Remerciements.</b> Préférences → À propos cite désormais Sparkle et KeyboardShortcuts, les logiciels libres sur lesquels Lexo s'appuie, et affiche leurs licences en entier.</li>
+</ul>
+<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.8</h2>
+<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
+  <li>🖐️ <b>La bulle se déplace de nouveau.</b> Sous macOS 27, la bulle de traduction ne pouvait plus être déplacée. Attrape-la par son en-tête, ses marges ou son pied pour la déplacer ; les zones de texte restent réservées à la sélection du texte.</li>
+</ul>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · tes textes ne quittent jamais ton Mac · aucun compte.</p>]]></description>
+            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="4079037" type="application/octet-stream" sparkle:edSignature="myXaYV6BRrlbHyaTkFwC39Ov+vHRwY0u19EkvDmYb3qRY/+vOcNOo24q6pKqCI6DPgiSiPzBUP4k97rbzIxWBQ=="/>
+        </item>
+        <item>
             <title>1.2.8</title>
-            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
+            <pubDate>Mon, 28 Sep 2026 16:08:09 +0200</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description xml:lang="en"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.8</h2>
+            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.8</h2>
 <ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
   <li>🖐️ <b>The bubble can be moved again.</b> On macOS 27, the translation bubble could no longer be dragged. Grab it by its header, its margins or its footer to move it; the text areas stay reserved for selecting text.</li>
 </ul>
@@ -20,25 +50,13 @@
   <li>💬 <b>Clearer messages.</b> "Downloading model" only shows when a model is really being downloaded, and text whose language can't be detected now says so plainly.</li>
   <li>🔊 <b>Better voices.</b> Read aloud now picks a voice from your region (US or UK English, Brazilian or European Portuguese) and a Taiwanese voice for Traditional Chinese.</li>
 </ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>]]></description>
-            <description xml:lang="fr"><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.8</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🖐️ <b>La bulle se déplace de nouveau.</b> Sous macOS 27, la bulle de traduction ne pouvait plus être déplacée. Attrape-la par son en-tête, ses marges ou son pied pour la déplacer ; les zones de texte restent réservées à la sélection du texte.</li>
-</ul>
-<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.7</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🗂️ <b>Un historique sous ton contrôle.</b> Un nouvel interrupteur dans Préférences → Historique le désactive complètement, ce qui efface aussi ce qui était déjà enregistré. Ou garde-le et choisis sa durée : 24 heures, 7 jours, 30 jours ou toujours.</li>
-  <li>⚡ <b>Capture plus rapide.</b> Lexo n'attend plus un délai fixe après avoir copié ta sélection : la bulle apparaît dès que l'app l'a copiée, et Lexo reste réactif pendant ce temps.</li>
-  <li>📋 <b>Ton presse-papiers respecté.</b> Quand rien n'est sélectionné, ton presse-papiers n'est plus touché du tout, et les gestionnaires de presse-papiers n'enregistrent plus de doublon de ton dernier élément.</li>
-  <li>💬 <b>Des messages plus clairs.</b> « Téléchargement du modèle » ne s'affiche plus que lorsqu'un modèle est vraiment téléchargé, et un texte dont la langue ne peut pas être détectée le dit simplement.</li>
-  <li>🔊 <b>De meilleures voix.</b> La lecture à voix haute choisit une voix de ta région (anglais américain ou britannique, portugais du Brésil ou du Portugal) et une voix taïwanaise pour le chinois traditionnel.</li>
-</ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100 % local · tes textes ne quittent jamais ton Mac · aucun compte.</p>]]></description>
+<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
+]]></description>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="4020444" type="application/octet-stream" sparkle:edSignature="DJ+QnBe0wcLPggXJTJFG4yZUb3ZYHTVDTonLnLa9vt5GNzv17xIYOfAYxX0ORSZrQo5P99/8w7CeBkZty8zZCQ=="/>
         </item>
         <item>
             <title>1.2.7</title>
-            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
+            <pubDate>Sun, 27 Sep 2026 13:38:21 +0200</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -57,24 +75,6 @@
 <p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
 ]]></description>
             <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="4015631" type="application/octet-stream" sparkle:edSignature="DH7B963bhfPknYjqIMevV/Tx07wVZJjMsMsH2cFHdy5pHr2v1JzHk1KZAZmMYXGrfMCXHdEkkZeRHWDBR5MmCA=="/>
-        </item>
-        <item>
-            <title>1.2.6</title>
-            <pubDate>Sun, 07 Jun 2026 09:08:54 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2 style="margin:0 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.6</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>🔎 <b>Windows now come to the front.</b> Checking for updates from the menu bar opened Sparkle's window behind the app you were using, so the click seemed to do nothing. The Preferences window had the same flaw. Recent macOS versions refuse to bring a background app forward, so Lexo now raises its windows directly instead of asking to be activated.</li>
-</ul>
-<h2 style="margin:16px 0 8px; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">Lexo 1.2.5</h2>
-<ul style="font-family:-apple-system,BlinkMacSystemFont,sans-serif; line-height:1.5; padding-left:20px;">
-  <li>✍️ <b>Typography.</b> The interface no longer uses em dashes. Same wording, cleaner punctuation, in all 40 languages: commas, colons and periods now do the work, each following the conventions of its own script.</li>
-</ul>
-<p style="color:#6e6e73; font-family:-apple-system,BlinkMacSystemFont,sans-serif;">100% on-device · your text never leaves your Mac · no account.</p>
-]]></description>
-            <enclosure url="https://github.com/Titi257/lexo/releases/latest/download/Lexo.dmg" length="3977202" type="application/octet-stream" sparkle:edSignature="6DOaX1tncpr7B5uNCvwMl2WIJAZkCZTJGkwhx5vP1zRi46eWQE5OvK7hxDyEfpeFnikHCp8s1OPDwEjHannuDA=="/>
         </item>
     </channel>
 </rss>

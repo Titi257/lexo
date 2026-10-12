@@ -60,6 +60,7 @@ Un breve asistente te guía:
 1. **Accesibilidad**: pulsa *Abrir Ajustes*, luego activa **Lexo** en
    *Ajustes del Sistema → Privacidad y seguridad → Accesibilidad*. Imprescindible para leer tu selección.
 2. **Idioma de destino**: el idioma **al que** traducir (francés por defecto), modificable en cualquier momento.
+3. **Inicio de sesión**: una casilla, marcada por defecto, propone abrir Lexo al encender el Mac. No se añade nada a los ítems de inicio sin tu elección, y puedes cambiarlo en cualquier momento en Preferencias → General.
 
 ## ⚙️ Requisitos
 
